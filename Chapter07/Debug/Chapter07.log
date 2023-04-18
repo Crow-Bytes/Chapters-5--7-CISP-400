@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Angelo\Documents\GitHub\Chapters-6--7-CISP-400\Chapter07\main.cpp(22,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Angelo\Documents\GitHub\Chapters-6--7-CISP-400\Chapter07\main.cpp(22,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Angelo\Documents\GitHub\Chapters-6--7-CISP-400\Chapter07\main.cpp(23,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Chapter07.vcxproj -> C:\Users\Angelo\Documents\GitHub\Chapters-6--7-CISP-400\Chapter07\Debug\Chapter07.exe
